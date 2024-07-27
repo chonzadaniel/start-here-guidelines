@@ -12,3 +12,5 @@
 - [@SamyuktaKarthikeyan](https://github.com/SamyuktaKarthikeyan)
 - [@i-m-hossain](https://github.com/i-m-hossain)
 - [@jamesyuill](https://github.com/jamesyuill)
+
+- [@chonzadaniel](https://github.com/chonzadaniel/)
